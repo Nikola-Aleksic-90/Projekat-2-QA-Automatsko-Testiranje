@@ -18,7 +18,9 @@ korisnika). MANUELNO TESTIRANO
 
 ➔ Detaljno proveriti da li je moguće registrovati se bez unosa svih polja. MANUELNO TESTIRANO
 
-➔ Testirati logovanje korisnika ukoliko to nije urađeno prethodnim koracima.
+➔ Testirati login korisnika ukoliko to nije urađeno prethodnim koracima.
+
+➔ Testirati logout korisnika ukoliko to nije urađeno prethodnim koracima.
 
 ➔ Testirati dodavanje 5 proizvoda - potrebno je popuniti samo osnovne podatke.
 (Potrebne podatke učitati iz xlsx ili xls fajla, kreirati proizvode i proveriti da li je
